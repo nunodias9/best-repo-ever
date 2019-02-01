@@ -2,5 +2,8 @@
 
 Test This
 
-new-branch-1-text in read
-me
+
+This is another test to merge
+conflits
+
+
